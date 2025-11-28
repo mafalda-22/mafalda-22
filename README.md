@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mafalda-22
-- 👀 I’m interested in medical imaging processing and segmentation
-- 🌱 I’m currently learning biomedical engineering and medical imaging segmentation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mafaldamolliveira@gmail.com
+- Hi, I’m Mafalda Oliveira and I'm a Biomedical Engineer with specialization in Data Science, passionate about bridging the gap between **business**, and **artificial intelligence**.
+Currently, I am deepening my knowledge in **Data Analytics** to transform complex datasets into actionable insights. My goal is to leverage AI to solve real-world problems.
+
+- 📫 How to reach me: mafaldamolliveira@gmail.com
 
 <!---
 mafalda-22/mafalda-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
