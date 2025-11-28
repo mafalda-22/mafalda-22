@@ -1,4 +1,4 @@
-Hi, I’m Mafalda Oliveira and I'm a Biomedical Engineer with specialization in Data Science, passionate about bridging the gap between **business**, and **artificial intelligence**.
+Hi, I’m Mafalda Oliveira and I'm a Biomedical Engineer with specialization in Data Science, passionate about bridging the gap between **business** and **artificial intelligence**.
 
 Currently, I am deepening my knowledge in **Data Analytics** to transform complex datasets into actionable insights. My goal is to leverage AI to solve real-world problems.
 
